@@ -1,5 +1,5 @@
 <h2>Hi there, I'm Lotus/Rob! 👋</h2>
-<p><em>Software Engineer @<a href="https://www.vicon.com/">Vicon Motion Systems Ltd</a></em>🖥️<br><br>
+<p><em>Game Systems Engineer @A UK Game Studio</em>🖥️<br><br>
 
 <span>
   <a href="#"><img float="left" width="380px" alt="🦑" src="about.svg"></a>
